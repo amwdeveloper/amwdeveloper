@@ -1,10 +1,15 @@
-## Olá! Eu sou o André Junior de Souza 🖐️
+[![MasterHead](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/d9h03vb-15f6de38-b68c-4047-aea9-86927939c40f.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwic3ViIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsImF1ZCI6WyJ1cm46c2VydmljZTpmaWxlLmRvd25sb2FkIl0sIm9iaiI6W1t7InBhdGgiOiIvZi8xMmNiZThhNC1mNTVjLTRiNDAtODViYi1kOGUxNDA1ZTdiODQvZDloMDN2Yi0xNWY2ZGUzOC1iNjhjLTQwNDctYWVhOS04NjkyNzkzOWM0MGYuZ2lmIn1dXX0.mgXRYzWKQXJ5HimPXPiAejPOVncc-RlQuj4UeWeen5A)](https://rishavchanda.io)
+<h1 align="center">Olá! 👋,  Eu sou o André Junior de Souza 🖐️</h1>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=amwdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 [![Blog](https://img.shields.io/website?label=AMWDeveloper.com.br&style=for-the-badge&url=https://amwdeveloper.com.br/)](https://amwdeveloper.com.br)
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amwdeveloper)
 
 ![AMWDeveloper](https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&theme=dracula&count_private=true)
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amwdeveloper&&theme=xcode)](https://github.com/amwdeveloper)
 
 ## Tecnologias que eu uso no meu dia
 
@@ -15,9 +20,5 @@
    <img align="center" alt="Jquery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
   <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-</div><br/>
+</div>
 
-Apaixonado por tecnologia, educação e por mudar a vida das pessoas através da programação.
-
-### Projeto Atual:
-- [Criando nova plataforma: AMWWEB 2.0]
