@@ -9,7 +9,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amwdeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amwdeveloper" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&locale=en&theme=tokyonight" alt="amwdeveloper" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&locale=en&theme=tokyonight" alt="amwdeveloper" /></p>
 
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amwdeveloper&&theme=xcode)](https://github.com/amwdeveloper)
