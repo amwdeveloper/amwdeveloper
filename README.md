@@ -7,7 +7,10 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amwdeveloper)
 
-![AMWDeveloper](https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&theme=dracula&count_private=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amwdeveloper&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="amwdeveloper" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&locale=en&theme=tokyonight" alt="amwdeveloper" /></p>
+
 
 [![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amwdeveloper&&theme=xcode)](https://github.com/amwdeveloper)
 
