@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amwdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="rishavchanda" /> </p>
 
 [![Blog](https://img.shields.io/website?label=AMWDeveloper.com.br&style=for-the-badge&url=https://amwdeveloper.com.br/)](https://amwdeveloper.com.br)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/sujeitoprogramador)
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/c/amwdeveloper)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/amwdeveloper)
 
 <img src="https://github-readme-stats.vercel.app/api?username=amwdeveloper&show_icons=true&locale=en&theme=tokyonight" alt="amwdeveloper" />
