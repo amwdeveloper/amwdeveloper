@@ -35,8 +35,3 @@ Sou um desenvolvedor apaixonado por criar soluções tecnológicas criativas e e
   <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </div>
-
----
-
-## 📈 Atividades Recentes
-[![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=amwdeveloper&&theme=xcode)](https://github.com/amwdeveloper)
